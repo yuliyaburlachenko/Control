@@ -25,7 +25,7 @@
  1. Создала репозиторий на GitHab  https://github.com/yuliyaburlachenko/Control
 
  2. Нарисовала блок схему к задаче:
-(![Alt text](C:\Users\yuliy\Downloads\Диаграмма.bmp)
+(![Alt text](Диаграмма.bmp)
 
  3.Репозиторий имеет файл READMI.md,в котором сейчас находимся.
 
